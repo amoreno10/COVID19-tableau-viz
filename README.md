@@ -11,7 +11,7 @@ Types of visualizations:
 
 <u>Dashboard</u>
 
-![Dashboard Covid](C:\Users\moren\dev\covid_tableau\Dashboard Covid.png)
+![](Tableau_Dashboard_Covid.png)
 
 Link to this dashboard in my Tableau Public:
 
